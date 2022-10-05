@@ -166,6 +166,8 @@ The last character escape `\/>` wants the literal expression `/>` to be found at
 
 ## Author
 © Done by: Bocar Ly
+
 [Github](https://github.com/bl-engineer)
+
 [Portfolio](https://bl-engineer.github.io/portfolio1/)
 
